@@ -1,4 +1,4 @@
-<h1 align="center">Thence Assignment</h1>
+<h1 align="center">KGK Assignment</h1>
 
 ## Installation
 ```
